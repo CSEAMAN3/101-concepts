@@ -1,0 +1,82 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links / li / inputs
+**************/
+
+/*************
+Typography
+**************/
+
+/*************
+Layout
+**************/
+
+.main-home {
+  width: 100%;
+  height: 90vh;
+  min-height: 500px;
+}
+
+.main-home-container {
+  width: 90%;
+  max-width: 1024px;
+  min-height: 60%;
+  margin: 0 auto;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-icon {
+  font-size: clamp(3rem, 30vh, 30vh);
+  color: var(--y);
+  margin: 10vh auto 0 auto;
+}
+
+.concept-heading {
+  font-family: "Fredoka One", cursive;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--wht);
+  text-align: center;
+}
+
+.concept-description {
+  font-family: "Fredoka One", cursive;
+  font-size: 1rem;
+  color: var(--wht);
+  text-align: center;
+}
+
+/* .concept-heading {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: clamp(320px, 60vh, 60vh);
+  font-family: "Fredoka One", cursive;
+  font-size: 2rem;
+  color: var(--wht);
+}
+
+.concept-description {
+  font-size: 1rem;
+  font-weight: 300;
+  color: var(--wht);
+  font-family: "Fredoka One", cursive;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: clamp(364px, 68vh, 68vh);
+  text-align: center;
+} */
+
+/*************
+Media Queries
+**************/

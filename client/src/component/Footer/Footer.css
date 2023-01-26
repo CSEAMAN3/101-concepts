@@ -1,0 +1,42 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links / li / inputs
+**************/
+
+/*************
+Typography
+**************/
+
+.footer-title {
+  font-weight: 700;
+  color: var(--wht);
+}
+
+/*************
+Layout
+**************/
+
+.footer {
+  width: 100%;
+  position: sticky;
+  bottom: 0;
+  padding: 2rem 0;
+}
+
+.footer-container {
+  width: 90%;
+  max-width: 1024px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*************
+Media Queries
+**************/

@@ -1,0 +1,50 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links / li / inputs
+**************/
+
+/*************
+Typography
+**************/
+
+.about-heading {
+  font-family: "Fredoka One", cursive;
+  font-size: 1.5rem;
+  color: var(--wht);
+  margin: 1rem 0 0.5rem 0;
+}
+
+.about-para {
+  color: var(--wht);
+}
+
+/*************
+Layout
+**************/
+
+.main-about {
+  width: 100%;
+}
+
+.main-about-container {
+  width: 90%;
+  max-width: 1024px;
+  margin: 0 auto;
+  height: 80vh;
+  min-height: 500px;
+}
+
+.about-section {
+  max-width: 600px;
+}
+
+/*************
+Media Queries
+**************/

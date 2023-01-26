@@ -1,0 +1,73 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links / li / inputs
+**************/
+
+/*************
+Typography
+**************/
+
+.header-logo-icon {
+  font-size: 3rem;
+  position: relative;
+  top: 10px;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: "Fredoka One", cursive;
+  color: var(--wht);
+}
+
+/*************
+Layout
+**************/
+
+.header {
+  width: 100%;
+  padding: 1rem 0;
+}
+
+.header-container {
+  width: 90%;
+  max-width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-nav {
+  display: none;
+}
+
+.header-nav-list {
+  display: flex;
+}
+
+.header-nav-list-item {
+  margin-left: 2rem;
+  font-weight: 700;
+  color: var(--wht);
+  padding-top: 1.8rem;
+}
+
+.header-nav-list-item:hover {
+  color: var(--blk);
+}
+
+/*************
+Media Queries
+**************/
+@media (min-width: 800px) {
+  .header-nav {
+    display: block;
+  }
+}
