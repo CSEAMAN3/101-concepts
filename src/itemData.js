@@ -9,7 +9,7 @@ export const itemData = [
   },
   {
     name: "Doggles",
-    description: "Dress your dog in the lastest wearable dog eyewear fashion.",
+    description: "Dress your dog in the lastest eyewear fashion.",
   },
   {
     name: "Pet Rock",
@@ -25,18 +25,18 @@ export const itemData = [
   },
   {
     name: "Swap-a-Chore",
-    description: "Got a chore you hate, swap it with someone else for a chore you love.",
+    description: "Got a chore you hate? Simply swap it with someone else for a chore you love.",
   },
   {
     name: "Glow In The Dark Toilet Paper",
-    description: "Never struggle in the darkness, grab yourself some glow in the dark toilet paper.",
+    description: "Never struggle in darkness agian! Grab yourself some glow in the dark toilet paper.",
   },
   {
-    name: "Ship Your Enimies Glitter",
-    description: "Kill you enimies with kindness, send them glitter.",
+    name: "Ship Your Enemies Glitter",
+    description: "Kill you enemies with kindness! Send them glitter.",
   },
   {
     name: "T-shirts with Tweets",
-    description: "grab yourself a timeless piece of fashion, grab a t-shirt displaying an iconic tweet.",
+    description: "Grab yourself a timeless piece of fashion From T-shirts with tweets!",
   },
 ];
