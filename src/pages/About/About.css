@@ -23,6 +23,7 @@ Typography
 
 .about-para {
   color: var(--wht);
+  margin-bottom: 0.25rem;
 }
 
 /*************

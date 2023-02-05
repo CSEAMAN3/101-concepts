@@ -11,7 +11,7 @@ export default function About() {
             The 101 concept generator is designed to help students on the tech educators 101 course generate an idea for a
             website.
           </p>
-          <p>
+          <p className="about-para">
             Try your hand at building a site based on an idea generated from the light bulb or come up with something great
             on your own. Either way, have fun and happy hacking.
           </p>
