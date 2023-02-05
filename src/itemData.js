@@ -29,7 +29,7 @@ export const itemData = [
   },
   {
     name: "Glow In The Dark Toilet Paper",
-    description: "Never struggle in darkness agian! Grab yourself some glow in the dark toilet paper.",
+    description: "Never struggle in darkness again! Grab yourself some glow in the dark toilet paper.",
   },
   {
     name: "Ship Your Enemies Glitter",
