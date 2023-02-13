@@ -39,4 +39,12 @@ export const itemData = [
     name: "T-shirts with Tweets",
     description: "Grab yourself a timeless piece of fashion From T-shirts with tweets!",
   },
+  {
+    name: "Cat Force",
+    description: "Help get elderly cats back into the workplace.",
+  },
+  {
+    name: "Fight or Flight",
+    description: "When you see an animal in the wild, decide would you fight it, or run for your life.",
+  },
 ];
